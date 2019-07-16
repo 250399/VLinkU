@@ -15,7 +15,7 @@
         }
        
 body {
-	margin-bottom: 100%;
+
     font-family: Arial, Helvetica, sans-serif;
    background-image:  url("man.jpeg");
     background-size: 100%;
@@ -183,7 +183,7 @@ input{
 	<a href="">BUSINESS</a>
 	&nbsp;
 	&nbsp;
-	<a href="jyoti.html">ABOUT US</a>
+	<a href="about.html">ABOUT US</a>
 	&nbsp;
 	&nbsp;
 	<a href="">HELP</a>
