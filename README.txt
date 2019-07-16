@@ -7,12 +7,6 @@ REQUIREMENTS
 phpmailer(https://github.com/PHPMailer/PHPMailer)
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-RECOMMENDED MODULES
--------------------
-"https://ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js"
-"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-"https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"
-"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
 
 INSTALLATION
 ------------
